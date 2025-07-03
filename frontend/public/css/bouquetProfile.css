@@ -1,0 +1,436 @@
+.Bouquet-profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.25em;
+}
+#main
+{
+    min-height: 100vh;
+}
+
+.Bouquet-profile {
+    display: flex;
+    align-items: center;
+    padding: 1.25em;
+    flex-direction: column;
+}
+
+.Bouquet-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.Bouquet-image {
+    width: 21.88em;
+    height: 21.88em;
+    object-fit: cover;
+    border-radius: 0.63em;
+    margin-left: -12.5em;
+    margin-right: 2.5em;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 15.63em;
+}
+
+.social-media-content {
+    display: flex;
+    align-items: center;
+    gap: 0.63em;
+    margin-bottom: 0.63em;
+    font-size: 2.13em;
+}
+
+.social-media-content a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    transform: translateY(0.13em)
+}
+
+.social-media-content a img {
+    width: 3.75em;
+    height: 3.75em;
+    margin-right: 0.63em;
+}
+
+.social-media-content a:hover span {
+    text-decoration: underline;
+}
+
+.social-media h2 {
+    margin-bottom: 0.63em;
+    font-size: 1.5em;
+}
+
+.social-media a {
+    margin: 1.25em 0;
+}
+
+.social-media img {
+    width: 12.5em;
+    height: 12.5em;
+}
+
+.Bouquet {
+    width: 100%;
+    margin-top: 1.25em;
+    text-align: center;
+}
+
+.Bouquet h3 {
+    text-align: center;
+    margin-bottom: 1.25em;
+    margin-left: -86.25em;
+    font-size: 1.88em;
+    transform: translateY(-15em);
+}
+
+.album-gallery a {
+    margin: 3.13em;
+    margin-left: -3.13em;
+    padding-left: -3.13em;
+}
+
+.album-gallery img {
+    width: 25em;
+    height: 25em;
+    object-fit: cover;
+    border-radius: 0.63em;
+    transition: transform 0.3s ease;
+    
+}
+
+.album-gallery img:hover {
+    transform: scale(1.1);
+    filter: brightness(0.10);
+}
+
+.album-gallery {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2.5em;
+    margin-left: 5em;
+    position: relative;
+}
+
+.album-gallery a {
+    position: relative;
+    display: inline-block;
+}
+
+.album-gallery a:hover .overlay {
+    opacity: 1;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.25em;
+}
+
+.page-num, .prev, .next {
+    padding: 0.63em 0.94em;
+    margin: 0 0.31em;
+    background-color: #f1f1f1;
+    border: 0.06em solid #ccc;
+    cursor: pointer;
+    border-radius: 0.31em;
+}
+
+.page-num.active {
+    background-color: #000;
+    color: #fff;
+}
+
+.page-num:hover, .prev:hover, .next:hover {
+    background-color: #ddd;
+}
+
+.album-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.25em;
+}
+
+.album {
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.63em;
+    border-radius: 0.31em;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+
+
+    
+}
+
+.album:hover .overlay {
+    opacity: 1;
+}
+
+.album {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.price {
+    display: block;
+    margin-top: 0.94em;
+    font-size: 1.63em;
+    color: #333;
+}
+
+
+
+.album-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    background-color: #f9f9f9; /* Background of the rectangle */
+    border: 0.06em solid #ddd; /* Light borders around the rectangle */
+    border-radius: 0.63em; /* Rounded corners of the rectangle */
+    box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.1); /* Light shadow around the rectangle */
+    margin: 1em;
+    width: 20em; /* Set the appropriate width */
+    transform: translateX(-5em); 
+    object-fit: cover;
+}
+
+
+.album-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0.63em;
+}
+
+.price {
+    margin-top: 0.5em;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.add-to-cart-btn {
+    margin-top: 0.5em;
+    padding: 0.75em 1.5em;
+    background-color: #9B7D67;
+    color: white;
+    border: none;
+    border-radius: 0.5em; 
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+    background-color: white;
+    color: #9B7D67;
+}
+
+
+
+
+
+
+.cartTab {
+    width: 25em;
+    background-color: black;
+    color: white;
+    inset: 0 0 0 auto;
+    position: fixed;
+    display: flex;
+    flex-direction: column; /* Arrange items vertically */
+    height: 100vh; /* Make the height of the cartTab fill the screen */
+    justify-content: space-between; /* Distribute space between the title, content, and buttons */
+    padding: 0; /* Remove any unwanted internal padding */
+}
+
+
+.cartTab h1 {
+    padding: 1.25em;
+    margin: 0;
+    font-weight: 200;
+}
+
+.cartTab .btn {
+    display: flex; 
+    /* justify-content: space-between;  */
+    width: 100%; 
+    position: absolute;
+    bottom: 0; 
+    left: 0;
+    right: 0;
+    padding: 0; 
+    margin: 0; 
+}
+.cartTab .btn button {
+    background-color: #9B7D67;
+    border: none;
+    font-family: Poppins;
+    font-weight: 500;
+    cursor: pointer;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center; 
+    justify-content: space-between;
+}
+
+
+.cartTab .btn .close {
+    background-color: white;
+    color: #9B7D67;
+    width: 50%;    
+}
+
+.cartTab .btn .checkOut {
+    background-color: #9B7D67;
+    color: white;
+    width: 50%;
+    
+}
+
+
+.cartTab .btn :hover {
+    background-color: black;
+    color: #9B7D67;
+}
+
+
+.cartTab .ListCart .item img {
+    width: 100%;
+}
+
+.cartTab .ListCart {
+    padding: 1em;
+    margin-right: 0;
+    overflow: auto;
+    flex-grow: 1; 
+}
+
+.cartTab .ListCart .item:first-child {
+    margin-top: -1em;
+}
+
+.cartTab .ListCart .item + .item {
+    margin-top: 1.3em;
+}
+
+.cartTab .ListCart .item {
+    display: grid;
+    grid-template-columns: 5.38em 4.38em 4.13em 1fr;
+    gap: 0.63em;
+    text-align: center;
+    align-items: center;
+    justify-content: start;
+}
+
+.cartTab .quantity span {
+    display: inline-block;
+    width: 1.56em;
+    height: 1.56em;
+    background-color: white;
+    color: #555;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.ListCart .quantity span:nth-child(2) {
+    background-color: transparent;
+    color: white;
+}
+
+.ListCart .item:nth-child(even) {
+    background-color: #eee1;
+}
+
+.ListCart ::-webkit-scrollbar {
+    width: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 2500px) {
+    .Bouquet-image {
+        width: 35% !important;
+        height: 35% !important;
+    }
+
+    .Bouquet h3 {
+        transform: translateX(-34%);
+        margin-left: 1.67%;
+        margin-top: -1.2%;
+        margin-bottom: 2.33%;
+
+    }
+
+    .album-gallery img {
+        width: 18.80em;
+        height: 18.80em;
+        margin:-3.12em;
+        transform: translateX(0.3em) !important;
+        margin-left: 2.4em !important;
+
+    }
+
+    .overlay {
+        text-align: center !important;
+    }
+
+    .social-media h2 {
+        font-size: 2em !important;
+    }
+
+    .social-media img {
+        width: 1.5em !important;
+        height: 1.5em !important;
+    }
+
+    .social-media-content {
+        font-size: 1.60em;
+    }
+
+    .overlay {
+        display: flex !important; 
+        justify-content: center !important; 
+        align-items: center !important; 
+        transform: translateX(0.2em);
+    }
+
+    .price {
+        margin-top: 2.2em;
+    }
+}

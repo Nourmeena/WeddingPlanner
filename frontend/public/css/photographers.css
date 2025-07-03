@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff; 
+    color: #333; 
+    min-height: 100vh;
+}
+#main
+{
+    min-height: 100vh;
+}
+h2 {
+    font-style: italic;
+    font-size: 30px;
+    transform: skewX(-10deg);
+    padding: 20px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+#content {
+    padding: 20px;
+}
+
+.icon-circles {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: flex-start; 
+    gap: 150px; 
+    margin-left: 100px; 
+    margin-bottom: 30px;
+}
+
+.icon-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    flex: 0 0 15%; 
+    margin-bottom: 20px; 
+}
+
+.circle {
+    background-color: #D0BCA0; 
+    border-radius: 50%;
+    width: 120px; 
+    height: 120px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin: 20px; 
+    transition: transform 0.3s;
+}
+
+.circle:hover {
+    filter: brightness(0.7);
+    transform: scale(1.1);
+}
+
+.circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    border-radius: 50%;
+}
+
+figcaption {
+    margin-top: 10px; 
+    font-size: 24px; 
+    line-height: 1.2; 
+    max-width: 300px; 
+    overflow-wrap: break-word; 
+    word-wrap: break-word; 
+    text-align: center; 
+}
+
+.star {
+    font-size: 45px;
+    color: black; 
+}
+
+.checked {
+    color: orange; 
+}
+
+.header-row {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px;
+}
+
+.sort-search-container {
+    display: flex;
+    align-items: center;
+    margin-left: auto; 
+}
+
+.sort-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px; 
+    cursor: pointer; 
+}
+
+.sort-icons span:hover {
+    color: #9B7D67; 
+}
+
+#searchBar {
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: black;
+    background-color: #ffffff;
+}
+
+#searchResult {
+    margin-top: 10px;
+    font-size: 48px; 
+    color: black; 
+}
+
+.no-results {
+    font-weight: bold; 
+}

@@ -1,0 +1,139 @@
+.popup {
+    display: block; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.popupContent {
+    background-color: #fff; 
+    margin: 5% auto; 
+    padding: 10em; 
+    border: 0.2em solid #888; 
+    width: 80%; 
+    border-radius: 2em;
+    transform-origin: center;
+}
+
+
+.closeBtn {
+    color: #aaa; 
+    float: right; 
+    font-size: 28px; 
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: -4em;
+    margin-right: -3em;
+}
+
+.closeBtn:hover,
+.closeBtn:focus {
+    color: black; 
+    text-decoration: none; 
+}
+
+.checkoutContainer {
+    display: flex;
+}
+
+.Checkout {
+    margin-top: -3.4em !important;
+    margin-left: -4em !important;
+    margin-bottom: 1em !important;
+}
+
+.paymentDetails {
+    flex: 75%; 
+    padding-right: 2em;
+    margin-left: -5em;
+}
+
+.orderSummary {
+    flex: 25%; 
+}
+
+.paymentInfo {
+    margin-top: 0.625em;
+}
+
+.payBtn {
+    background-color: #9B7D67; 
+    color: white; 
+    padding: 0.625em 1.25em; 
+    border: none; 
+    border-radius: 0.313em; 
+    cursor: pointer; 
+    margin-top: 1em;
+    width: 25%;
+}
+
+.payBtn:hover {
+    color: #9B7D67; 
+    background-color: white; 
+}
+
+.applyBtn {
+    background-color: #9B7D67; 
+    color: white; 
+    padding: 0.313em 0.625em;
+    border: none; 
+    border-radius: 0.313em; 
+    cursor: pointer; 
+}
+
+.applyBtn:hover {
+    color: #9B7D67; 
+    background-color: white; 
+}
+
+.totals {
+    margin-top: 1.25em;
+}
+
+
+
+.paymentInfo label {
+    display: block; 
+    margin-top: 0.625em; 
+    flex: 0 0 25%; 
+}
+
+.paymentInfo input {
+    width: 50%; 
+    padding: 0.5em; 
+    margin-top: 0.313em; 
+    box-sizing: border-box; 
+    border-radius: 0.5em;
+}
+
+
+.coupons {
+    display: flex; /* Use Flexbox to arrange elements inside the div */
+    align-items: center; /* Vertically align the elements in the center */
+    gap: 0.625em; /* Space between elements */
+}
+
+.coupons label {
+    width: 7.5em; /* Make the label width larger */
+    flex-shrink: 0; /* Prevent the label width from shrinking */
+}
+
+.coupons input[type="text"] {
+    width: 12.5em; /* Width of the text field */
+    height: 2.5em; /* Height of the text field */
+    padding: 0.625em; /* Add internal padding to the field */
+    box-sizing: border-box; /* Include padding in the total size */
+    border-radius: 0.5em;
+}
+
+.applyBtn {
+    width: 6.25em; /* Width of the button */
+    height: 2.5em; /* Height of the button */
+    padding: 0.625em; /* Add internal padding to the button */
+    font-size: 16px; /* Increase font size in the button */
+}

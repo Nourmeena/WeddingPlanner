@@ -1,0 +1,59 @@
+[
+    {
+        "id":"Veil Designs by Mariam",
+        "name" : "Veil Designs by Mariam",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/Veil Designs By Mariam.png",
+        "Rating": 5.0
+    },
+
+
+    {
+        "id":"Lina El-Sayegh",
+        "name" : "Lina El-Sayegh",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/lina.jpg",
+        "Rating": 4.0
+    },
+
+    {
+        "id":"Leila El-Masry",
+        "name" : "Leila El-Masry",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/leila.jpg",
+        "Rating": 3.0
+    },
+
+    {
+        "id":"Haya Al-Ghanem",
+        "name" : "Haya Al-Ghanem",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/Haya.jpg",
+        "Rating": 4.5
+    },
+
+    {
+        "id":"Couture Veils by Sara",
+        "name" : "Couture Veils by Sara",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/Sara.jpg",
+        "Rating": 2.0
+    },
+
+
+    {
+        "id":"Bridal Veil Creations by Farah",
+        "name" : "Bridal Veil Creations by Farah",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/Farah.jpg",
+        "Rating": 0.0
+    },
+
+    {
+        "id":"Nouran Zaki",
+        "name" : "Nouran Zaki",
+        "page" : "/VeilDesignerProfile",
+        "Photo" : "../img/veils/ProfilePics/NouranZaki.jpg",
+        "Rating": 0.0
+    }
+]

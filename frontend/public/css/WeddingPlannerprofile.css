@@ -1,0 +1,236 @@
+.WeddingPlanner-profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.25em;
+}
+#main
+{
+    min-height: 100vh;
+}
+
+.WeddingPlanner-profile {
+    display: flex;
+    align-items: center;
+    padding: 1.25em;
+    flex-direction: column;
+}
+
+.WeddingPlanner-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.WeddingPlanner-image {
+    width: 21.88em;
+    height: 21.88em;
+    object-fit: cover;
+    border-radius: 0.63em;
+    margin-left: -12.5em;
+    margin-right: 2.5em;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 15.63em;
+}
+
+.social-media-content {
+    display: flex;
+    align-items: center;
+    gap: 0.63em;
+    margin-bottom: 0.63em;
+    font-size: 2.13em;
+
+    transform: translateY(-1.13em)
+}
+
+.social-media-content a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    transform: translateY(0.13em)
+}
+
+.social-media-content a img {
+    width: 3.75em;
+    height: 3.75em;
+    margin-right: 0.63em;
+}
+
+.social-media-content a:hover span {
+    text-decoration: underline;
+}
+
+.social-media h2 {
+    margin-bottom: 0.63em;
+    font-size: 1.5em;
+}
+
+.social-media a {
+    margin: 1.25em 0;
+}
+
+.social-media img {
+    width: 12.5em;
+    height: 12.5em;
+}
+
+.decorations {
+    width: 100%;
+    margin-top: 1.25em;
+    text-align: center;
+}
+
+.decorations h3 {
+    text-align: center;
+    margin-bottom: 1.25em;
+    margin-left: -86.25em;
+    font-size: 1.88em;
+}
+
+.album-gallery a {
+    margin: 3.13em;
+    margin-left: -3.12em;
+    padding-left: -3.12em;
+}
+
+.album-gallery img {
+    width: 25em;
+    height: 25em;
+    object-fit: cover;
+    border-radius: 0.63em;
+    transition: transform 0.3s ease;
+}
+
+.album-gallery img:hover {
+    transform: scale(1.1);
+    filter: brightness(0.10);
+}
+
+.album-gallery {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2.5em;
+    margin-left: 5em;
+    position: relative;
+}
+
+.album-gallery a {
+    position: relative;
+    display: inline-block;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0.63em;
+    border-radius: 0.31em;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.album-gallery a:hover .overlay {
+    opacity: 1;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.25em;
+}
+
+.page-num, .prev, .next {
+    padding: 0.63em 0.94em;
+    margin: 0 0.31em;
+    background-color: #f1f1f1;
+    border: 0.06em solid #ccc;
+    cursor: pointer;
+    border-radius: 0.31em;
+}
+
+.page-num.active {
+    background-color: #000;
+    color: #fff;
+}
+
+.page-num:hover, .prev:hover, .next:hover {
+    background-color: #ddd;
+}
+
+.album-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 albums per row */
+    gap: 1.25em; /* Adjust gap between albums */
+}
+
+.album-container {
+    display: block;
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 2500px) {
+    .WeddingPlanner-image {
+        width: 35% !important;
+        height: 35% !important;
+    }
+
+    .decorations h3 {
+        transform: translateX(-34%);
+        margin-left: 1.67%;
+        margin-top: -1.2%;
+        margin-bottom: 2.33%;
+
+    }
+
+    .album-gallery img {
+        width: 18.80em;
+        height: 18.80em;
+        margin:-3.12em;
+        transform: translateX(1.13em) !important;
+
+    }
+
+    .overlay {
+        text-align: center !important;
+    }
+
+    .social-media h2 {
+        font-size: 2em !important;
+    }
+
+    .social-media img {
+        width: 1.5em !important;
+        height: 1.5em !important;
+    }
+
+    .social-media-content {
+        font-size: 1.60em;
+    }
+
+    .overlay {
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+    }
+
+    .album-gallery {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* 4 albums per row */
+        gap: 1.25em; /* Adjust gap between albums */
+    }
+    
+    .album-container {
+        display: block;
+    }
+}

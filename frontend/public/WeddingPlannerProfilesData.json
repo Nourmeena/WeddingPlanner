@@ -1,0 +1,271 @@
+[
+
+    {
+        "id":"Nouran Tarek",
+        "name": "Nouran Tarek",
+        "image": "../img/WeddingPlanners/PPs/Nouran.jpg",
+        "instagram":"https://instagram.com/nouran.tarek.weddings",
+        "facebook":"https://facebook.com/nouran.tarek.weddings",
+        "email":"nouran.tarek@gmail.com",
+        "albums":[
+            {
+                "cover": "../img/WeddingPlanners/Nouran Tarek/A & P/cover.jpeg",
+                "photos": [
+                    "../img/WeddingPlanners/Nouran Tarek/A & P/cover.jpeg",
+                    "../img/WeddingPlanners/Nouran Tarek/A & P/ph1.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/A & P/ph2.jpeg"
+                ],
+                "title": "A & P"
+            },
+            {
+                "cover": "../img/WeddingPlanners/Nouran Tarek/A & S/cover.webp",
+                "photos": [
+                    "../img/WeddingPlanners/Nouran Tarek/A & S/cover.webp",
+                    "../img/WeddingPlanners/Nouran Tarek/A & S/ph1.webp",
+                    "../img/WeddingPlanners/Nouran Tarek/A & S/ph2.webp",
+                    "../img/WeddingPlanners/Nouran Tarek/A & S/ph3.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/A & S/ph4.webp"
+                ],
+                "title": "A & S"
+            },
+            {
+                "cover": "../img/WeddingPlanners/Nouran Tarek/J & Z/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/Nouran Tarek/J & Z/cover.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/J & Z/ph1.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/J & Z/ph2.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/J & Z/ph3.webp"
+                ],
+                "title": "J & Z"
+            },
+            {
+                "cover": "../img/WeddingPlanners/Nouran Tarek/S & G/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/cover.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/ph1.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/ph3.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/ph4.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/ph5.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/ph6.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/S & G/ph7.jpg"
+                ],
+                "title": "S & G"
+            }
+            ,
+            {
+                "cover": "../img/WeddingPlanners/Nouran Tarek/K & F/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/Nouran Tarek/K & F/cover.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/K & F/ph1.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/K & F/ph3.jpg",
+                    "../img/WeddingPlanners/Nouran Tarek/K & F/ph4.jpg"
+                ],
+                "title": "K & F"
+            }
+        ]
+    },
+
+    {
+        "id":"Sara Youssef",
+        "name": "Sara Youssef",
+        "image": "../img/WeddingPlanners/PPs/Sara Youssef.jpg",
+        "instagram":"https://instagram.com/sarayoussef.planner",
+        "facebook":"https://facebook.com/sarayoussef.planner",
+        "email":"sara.youssef.planner@gmail.com",
+        "albums":[
+            {
+                "cover": "../img/WeddingPlanners/Sara Youssef/J & A/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/Sara Youssef/J & A/cover.jpg",
+                    "../img/WeddingPlanners/Sara Youssef/J & A/ph1.jpg",
+                    "../img/WeddingPlanners/Sara Youssef/J & A/ph2.jpg"
+                ],
+                "title": "J & A"
+            }
+        ]
+    },
+    
+    {
+        "id":"The Wedding Atelier",
+        "name": "The Wedding Atelier",
+        "image": "../img/WeddingPlanners/PPs/The Wedding Atelier.jpg",
+        "instagram":"https://instagram.com/theweddingatelier",
+        "facebook":"https://facebook.com/weddingatelier",
+        "email":"atelier.weddings@gmail.com",
+        "albums":[
+            {
+                "cover": "../img/WeddingPlanners/The Wedding Atelier/A & R/cover.jpeg",
+                "photos": [
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/cover.jpeg",
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/ph1.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/ph2.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/ph3.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/ph4.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/ph5.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/A & R/pj6.jpg"
+                ],
+                "title": "A & R"
+            },
+            {
+                "cover": "../img/WeddingPlanners/The Wedding Atelier/H & L/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Wedding Atelier/H & L/cover.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & L/ph1.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & L/ph2.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & L/ph3.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & L/ph4.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & L/ph5.jpg"
+                ],
+                "title": "H & L"
+            },
+            {
+                "cover": "../img/WeddingPlanners/The Wedding Atelier/H & T/ph1.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Wedding Atelier/H & T/ph1.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & T/ph2.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & T/ph3.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/H & T/ph4.jpg"
+                ],
+                "title": "H & T"
+            },
+            {
+                "cover":  "../img/WeddingPlanners/The Wedding Atelier/S & N/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Wedding Atelier/S & N/cover.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/S & N/ph1.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/S & N/ph2.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/S & N/ph3.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/S & N/ph4.jpg",
+                    "../img/WeddingPlanners/The Wedding Atelier/S & N/ph5.jpg"
+                ],
+                "title": "S & N"
+            }
+        ]
+    },
+    
+    {
+        "id":"Elegent Affairs",
+        "name": "Elegent Affairs",
+        "image": "../img/WeddingPlanners/PPs/Elegent Affairs.jpg",
+        "instagram":"https://instagram.com/elegantaffairs.events",
+        "facebook":"https://facebook.com/elegantaffairs.events",
+        "email":"elegant.affairs.events@gmail.com",
+        "albums":[
+            {
+                "cover": "../img/WeddingPlanners/Elegant Affairs/L & H/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/Elegant Affairs/L & H/cover.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/L & H/ph1.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/L & H/ph2.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/L & H/ph3.jpg"
+                ],
+                "title": "L & H"
+            },
+            {
+                "cover": "../img/WeddingPlanners/Elegant Affairs/R & Y/cover.webp",
+                "photos": [
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/cover.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph1.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph2.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph3.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph4.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph5.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph6.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph7.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph8.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph9.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph10.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph11.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph12.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/R & Y/ph13.webp"
+                ],
+                "title": "R & Y"
+            },
+            {
+                "cover": "../img/WeddingPlanners/Elegant Affairs/W & S/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/Elegant Affairs/W & S/cover.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/W & S/ph1.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/W & S/ph2.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/W & S/ph3.jpg",
+                    "../img/WeddingPlanners/Elegant Affairs/W & S/ph4.jpg"
+                ],
+                "title": "W & S"
+            },
+            {
+                "cover": "../img/WeddingPlanners/Elegant Affairs/Y & Y/cover.webp",
+                "photos": [
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/cover.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph1.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph2.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph3.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph4.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph5.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph6.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph7.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph8.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph9.webp",
+                    "../img/WeddingPlanners/Elegant Affairs/Y & Y/ph10.webp"
+                ],
+                "title": "Y & Y"
+            }
+        ]
+    },
+
+    {
+        "id":"The Perfect Day Planners",
+        "name": "The Perfect Day Planners",
+        "image": "../img/WeddingPlanners/PPs/The Perfect Day Planners.jpg",
+        "instagram":"https://instagram.com/perfectdayplanners",
+        "facebook":"https://facebook.com/perfectdayplanners",
+        "email":"perfect.day.planners@gmail.com",
+        "albums":[
+            {
+                "cover": "../img/WeddingPlanners/The Perfect Day Planners/A & E/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Perfect Day Planners/A & E/cover.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/A & E/ph1.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/A & E/ph2.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/A & E/ph3.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/A & E/ph4.jpg"
+                ],
+                "title": "A & E"
+            },
+            {
+                "cover": "../img/WeddingPlanners/The Perfect Day Planners/M & M/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Perfect Day Planners/M & M/cover.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/M & M/ph1.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/M & M/ph2.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/M & M/ph3.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/M & M/ph4.jpg"
+                ],
+                "title": "M & M"
+            },
+            {
+                "cover": "../img/WeddingPlanners/The Perfect Day Planners/S & E/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & E/cover.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & E/ph1.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & E/ph2.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & E/ph3.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & E/ph4.jpg"
+                ],
+                "title": "S & E"
+            },
+            {
+                "cover": "../img/WeddingPlanners/The Perfect Day Planners/S & G/cover.jpg",
+                "photos": [
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & G/cover.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & G/ph1.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & G/ph2.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & G/ph3.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & G/ph4.jpg",
+                    "../img/WeddingPlanners/The Perfect Day Planners/S & G/ph5.jpg"
+                ],
+                "title": "S & G"
+            }
+        ]
+    }
+    
+]

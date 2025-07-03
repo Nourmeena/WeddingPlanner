@@ -1,0 +1,438 @@
+[
+    {
+        "id":"Hossam Antikka",
+        "name": "Hossam Antikka",
+        "image": "../img/Photographers/Antikka.jpg",
+        "instagram": "https://www.instagram.com/antikahossam",
+        "facebook": "https://www.facebook.com/antikaphotography",
+        "email": "antikahossam@gmail.com",
+        "albums": [
+            {
+                "cover": "/img/Photographers/AntikkaAlbums/EsraaMohammed/cover.jpg",
+                "photos": [
+                    "/img/Photographers/AntikkaAlbums/EsraaMohammed/Ph1.jpg",
+                    "/img/Photographers/AntikkaAlbums/EsraaMohammed/ph2.jpg",
+                    "/img/Photographers/AntikkaAlbums/EsraaMohammed/ph3.jpg",
+                    "/img/Photographers/AntikkaAlbums/EsraaMohammed/ph4.jpg",
+                    "/img/Photographers/AntikkaAlbums/EsraaMohammed/ph5.jpg",
+                    "/img/Photographers/AntikkaAlbums/EsraaMohammed/cover.jpg"
+                ],
+                "title": "Esraa & Mohammed"
+            },
+            {
+                "cover": "/img/Photographers/AntikkaAlbums/AM/cover.jpg",
+                "photos": [
+                    "/img/Photographers/AntikkaAlbums/AM/ph3.jpg",
+                    "/img/Photographers/AntikkaAlbums/AM/ph2.jpg",
+                    "/img/Photographers/AntikkaAlbums/AM/ph1.jpg",
+                    "/img/Photographers/AntikkaAlbums/AM/cover.jpg"
+                ],
+                "title": "AM"
+            },
+            {
+                "cover": "/img/Photographers/AntikkaAlbums/JA/cover.jpg",
+                "photos": [
+                    "/img/Photographers/AntikkaAlbums/JA/ph1.jpg",
+                    "/img/Photographers/AntikkaAlbums/JA/ph2.jpg",
+                    "/img/Photographers/AntikkaAlbums/JA/ph3.jpg",
+                    "/img/Photographers/AntikkaAlbums/JA/ph4.jpg",
+                    "/img/Photographers/AntikkaAlbums/JA/cover.jpg"
+                ],
+                "title": "JA"
+            },
+            {
+                "cover": "/img/Photographers/AntikkaAlbums/JR/cover.jpg",
+                "photos": [
+                    "/img/Photographers/AntikkaAlbums/JR/ph1.jpg",
+                    "/img/Photographers/AntikkaAlbums/JR/ph2.jpg",
+                    "/img/Photographers/AntikkaAlbums/JR/ph3.jpg",
+                    "/img/Photographers/AntikkaAlbums/JR/ph4.jpg",
+                    "/img/Photographers/AntikkaAlbums/JR/cover.jpg"
+                ],
+                "title": "JR"
+            }
+        ]
+    },
+    {
+        "id":"Ahmed Khaled",
+        "name":"Ahmed Khaled",
+        "image":"../img/Photographers/ProfilePics/AhmedKhaled.jpg",
+        "instagram":"https://instagram.com/ahmedkhaled_studios",
+        "facebook":"https://facebook.com/ahmedkhaledstudios",
+        "email":"ahmedkhaled.studios@gmail.com",
+        "albums":[
+            {
+                "cover":"../img/Photographers/AhmedKhaled/A & E/cover.jpg",
+                "photos":[
+                    "../img/Photographers/AhmedKhaled/A & E/cover.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph1.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph2.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph3.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph4.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph5.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph6.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph7.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph8.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph9.jpg",
+                    "../img/Photographers/AhmedKhaled/A & E/ph10.jpg"
+                ],
+                "title":"A & E"
+            },
+            {
+                "cover":"../img/Photographers/AhmedKhaled/D & T/cover.jpg",
+                "photos":[
+                    "../img/Photographers/AhmedKhaled/D & T/cover.jpg",
+                    "../img/Photographers/AhmedKhaled/D & T/ph1.jpg",
+                    "../img/Photographers/AhmedKhaled/D & T/ph2.jpg",
+                    "../img/Photographers/AhmedKhaled/D & T/ph3.jpg",
+                    "../img/Photographers/AhmedKhaled/D & T/ph4.jpg",
+                    "../img/Photographers/AhmedKhaled/D & T/ph5.jpg"
+                ],
+                "title":"D & T"
+            },
+            {
+                "cover":"../img/Photographers/AhmedKhaled/E & E/cover.jpg",
+                "photos":[
+                    "../img/Photographers/AhmedKhaled/E & E/cover.jpg",
+                    "../img/Photographers/AhmedKhaled/E & E/ph1.jpg",
+                    "../img/Photographers/AhmedKhaled/E & E/ph2.jpg",
+                    "../img/Photographers/AhmedKhaled/E & E/ph3.jpg",
+                    "../img/Photographers/AhmedKhaled/E & E/ph4.jpg",
+                    "../img/Photographers/AhmedKhaled/E & E/ph5.jpg"
+                ],
+                "title":"E & E"
+            },
+            {
+                "cover":"../img/Photographers/AhmedKhaled/S & A/cover.jpg",
+                "photos":[
+                    "../img/Photographers/AhmedKhaled/S & A/cover.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph1.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph2.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph3.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph4.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph5.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph6.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph7.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph8.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph9.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph10.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph11.jpg",
+                    "../img/Photographers/AhmedKhaled/S & A/ph12.jpg"
+                ],
+                "title":"S & A"
+            }
+        ]
+    },
+    {
+        "id":"Nouran Osama",
+        "name":"Nouran Osama",
+        "image":"../img/Photographers/ProfilePics/NouranOsama.jpg",
+        "instagram":"https://instagram.com/nouran_osama_photography",
+        "facebook":"https://facebook.com/nouranosamaphotography",
+        "email":"nouranosama.photography@gmail.com",
+        "albums":[
+            {
+                "cover":"../img/Photographers/NouranOsama/E & A/cover.jpg",
+                "photos":[
+                    "../img/Photographers/NouranOsama/E & A/cover.jpg",
+                    "../img/Photographers/NouranOsama/E & A/ph1.jpg",
+                    "../img/Photographers/NouranOsama/E & A/ph2.jpg",
+                    "../img/Photographers/NouranOsama/E & A/ph3.jpg",
+                    "../img/Photographers/NouranOsama/E & A/ph4.jpg"
+                ],
+                "title":"E & A"
+            },
+            {
+                "cover":"../img/Photographers/NouranOsama/K & H/cover.jpg",
+                "photos":[
+                    "../img/Photographers/NouranOsama/K & H/cover.jpg",
+                    "../img/Photographers/NouranOsama/K & H/ph1.jpg",
+                    "../img/Photographers/NouranOsama/K & H/ph2.jpg",
+                    "../img/Photographers/NouranOsama/K & H/ph3.jpg",
+                    "../img/Photographers/NouranOsama/K & H/ph4.jpg"
+                ],
+                "title":"K & H"
+            },
+            {
+                "cover":"../img/Photographers/NouranOsama/M & M/cover.jpg",
+                "photos":[
+                    "../img/Photographers/NouranOsama/M & M/cover.jpg",
+                    "../img/Photographers/NouranOsama/M & M/ph1.jpg",
+                    "../img/Photographers/NouranOsama/M & M/ph2.jpg"
+                ],
+                "title":"M & M"
+            },
+            {
+                "cover":"../img/Photographers/NouranOsama/S & G/cover.jpg",
+                "photos":[
+                    "../img/Photographers/NouranOsama/S & G/cover.jpg",
+                    "../img/Photographers/NouranOsama/S & G/ph1.jpg",
+                    "../img/Photographers/NouranOsama/S & G/ph2.jpg",
+                    "../img/Photographers/NouranOsama/S & G/ph3.jpg"
+                ],
+                "title":"S & G"
+            }
+        ]
+    },
+    {
+        "id":"Hana's Moments",
+        "name":"Hana's Moments",
+        "image":"../img/Photographers/ProfilePics/Hana.jpg",
+        "instagram":"https://instagram.com/hanas_moments",
+        "facebook":"https://facebook.com/hanasmomentsphotography",
+        "email":"hanasmoments.photo@gmail.com",
+        "albums":[
+            {
+                "cover":"../img/Photographers/Hana/A & K/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Hana/A & K/cover.jpg",
+                    "../img/Photographers/Hana/A & K/ph1.jpg",
+                    "../img/Photographers/Hana/A & K/ph2.jpg",
+                    "../img/Photographers/Hana/A & K/ph3.jpg"
+                ],
+                "title":"A & K"
+            },
+            {
+                "cover":"../img/Photographers/Hana/A & P/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Hana/A & P/cover.jpg",
+                    "../img/Photographers/Hana/A & P/ph1.jpg",
+                    "../img/Photographers/Hana/A & P/ph2.jpg"
+                ],
+                "title":"A & P"
+            },
+            {
+                "cover":"../img/Photographers/Hana/B & Y/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Hana/B & Y/cover.jpg",
+                    "../img/Photographers/Hana/B & Y/ph1.jpg",
+                    "../img/Photographers/Hana/B & Y/ph2.jpg",
+                    "../img/Photographers/Hana/B & Y/ph3.jpg",
+                    "../img/Photographers/Hana/B & Y/ph4.jpg",
+                    "../img/Photographers/Hana/B & Y/ph5.jpg",
+                    "../img/Photographers/Hana/B & Y/ph6.jpg",
+                    "../img/Photographers/Hana/B & Y/ph7.jpg",
+                    "../img/Photographers/Hana/B & Y/ph8.jpg"
+                ],
+                "title":"B & Y"
+            },
+            {
+                "cover":"../img/Photographers/Hana/J & Z/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Hana/J & Z/cover.jpg",
+                    "../img/Photographers/Hana/J & Z/ph1.jpg",
+                    "../img/Photographers/Hana/J & Z/ph2.jpg"
+                ],
+                "title":"J & Z"
+            }
+            ,
+            {
+                "cover":"../img/Photographers/Hana/S & G/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Hana/S & G/cover.jpg",
+                    "../img/Photographers/Hana/S & G/ph1.jpg",
+                    "../img/Photographers/Hana/S & G/ph2.jpg",
+                    "../img/Photographers/Hana/S & G/ph3.jpg",
+                    "../img/Photographers/Hana/S & G/ph4.jpg",
+                    "../img/Photographers/Hana/S & G/ph5.jpg",
+                    "../img/Photographers/Hana/S & G/ph6.jpg"
+                ],
+                "title":"S & G"
+            }
+        ]
+    },
+    {
+        "id":"Mohamed Selim Gallery",
+        "name":"Mohamed Selim Gallery",
+        "image":"../img/Photographers/ProfilePics/MohamedSelim.jpg",
+        "instagram":"",
+        "facebook":"",
+        "email":"",
+        "albums":[
+            {
+                "cover":"../img/Photographers/MohamedSeliem/A & A/cover.jpg",
+                "photos":[
+                    "../img/Photographers/MohamedSeliem/A & A/cover.jpg",
+                    "../img/Photographers/MohamedSeliem/A & A/ph1.jpg",
+                    "../img/Photographers/MohamedSeliem/A & A/ph2.jpg"
+                ],
+                "title":"A & A"
+            },
+            {
+                "cover":"../img/Photographers/MohamedSeliem/K & Z/cover.jpg",
+                "photos":[
+                    "../img/Photographers/MohamedSeliem/K & Z/cover.jpg",
+                    "../img/Photographers/MohamedSeliem/K & Z/ph1.jpg",
+                    "../img/Photographers/MohamedSeliem/K & Z/ph2.jpg",
+                    "../img/Photographers/MohamedSeliem/K & Z/ph3.jpg",
+                    "../img/Photographers/MohamedSeliem/K & Z/ph4.jpg",
+                    "../img/Photographers/MohamedSeliem/K & Z/ph5.jpg"
+                ],
+                "title":"K & Z"
+            },
+            {
+                "cover":"../img/Photographers/MohamedSeliem/O & D/cover.jpg",
+                "photos":[
+                    "../img/Photographers/MohamedSeliem/O & D/cover.jpg",
+                    "../img/Photographers/MohamedSeliem/O & D/ph1.jpg",
+                    "../img/Photographers/MohamedSeliem/O & D/ph2.jpg",
+                    "../img/Photographers/MohamedSeliem/O & D/ph3.jpg",
+                    "../img/Photographers/MohamedSeliem/O & D/ph4.jpg",
+                    "../img/Photographers/MohamedSeliem/O & D/ph5.jpg",
+                    "../img/Photographers/MohamedSeliem/O & D/ph6.jpg"
+                ],
+                "title":"O & D"
+            },
+            {
+                "cover":"../img/Photographers/MohamedSeliem/Y & R/cover.jpg",
+                "photos":[
+                    "../img/Photographers/MohamedSeliem/Y & R/cover.jpg",
+                    "../img/Photographers/MohamedSeliem/Y & R/ph1.jpg",
+                    "../img/Photographers/MohamedSeliem/Y & R/ph2.jpg"
+                ],
+                "title":"Y & R"
+            }
+        ]
+    },
+    {
+        "id":"Lamia's Lens",
+        "name":"Lamia's Lens",
+        "image":"../img/Photographers/ProfilePics/Lamia.jpg",
+        "instagram":"https://instagram.com/lamias_lens",
+        "facebook":"https://facebook.com/lamiaslensphotography",
+        "email":"lamiaslens@gmail.com",
+        "albums":[
+            {
+                "cover":"../img/Photographers/Lamia/A & N/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Lamia/A & N/cover.jpg",
+                    "../img/Photographers/Lamia/A & N/ph1.jpg",
+                    "../img/Photographers/Lamia/A & N/ph2.jpg",
+                    "../img/Photographers/Lamia/A & N/ph3.jpg",
+                    "../img/Photographers/Lamia/A & N/ph4.jpg"
+                ],
+                "title":"A & N"
+            },
+            {
+                "cover":"../img/Photographers/Lamia/F & E/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Lamia/F & E/cover.jpg",
+                    "../img/Photographers/Lamia/F & E/ph1.jpg",
+                    "../img/Photographers/Lamia/F & E/ph2.jpg",
+                    "../img/Photographers/Lamia/F & E/ph3.jpg",
+                    "../img/Photographers/Lamia/F & E/ph4.jpg",
+                    "../img/Photographers/Lamia/F & E/ph5.jpg"
+                ],
+                "title":"F & E"
+            },
+            {
+                "cover":"../img/Photographers/Lamia/H & M/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Lamia/H & M/cover.jpg",
+                    "../img/Photographers/Lamia/H & M/ph1.jpg"
+                ],
+                "title":"H & M"
+            },
+            {
+                "cover":"../img/Photographers/Lamia/S & N/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Lamia/S & N/cover.jpg",
+                    "../img/Photographers/Lamia/S & N/ph1.jpg",
+                    "../img/Photographers/Lamia/S & N/ph2.jpg",
+                    "../img/Photographers/Lamia/S & N/ph3.jpg",
+                    "../img/Photographers/Lamia/S & N/ph4.jpg",
+                    "../img/Photographers/Lamia/S & N/ph5.jpg"
+                ],
+                "title":"S & N"
+            },
+            {
+                "cover":"../img/Photographers/Lamia/Y & B/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Lamia/Y & B/cover.jpg",
+                    "../img/Photographers/Lamia/Y & B/ph1.jpg",
+                    "../img/Photographers/Lamia/Y & B/ph2.jpg",
+                    "../img/Photographers/Lamia/Y & B/ph3.jpg",
+                    "../img/Photographers/Lamia/Y & B/ph4.jpg",
+                    "../img/Photographers/Lamia/Y & B/ph5.jpg"
+                ],
+                "title":"Y & B"
+            }
+        ]
+    },
+    {
+        "id":"Sara Nabil",
+        "name":"Sara Nabil",
+        "image":"../img/Photographers/ProfilePics/SaraNabil.jpg",
+        "instagram":"https://instagram.com/sara_nabil_photography",
+        "facebook":"https://facebook.com/saranabilphotography",
+        "email":"saranabil.photo@gmail.com",
+        "albums":[
+            {
+                "cover":"../img/Photographers/SaraNabil/T & M/cover.jpg",
+                "photos":[
+                    "../img/Photographers/SaraNabil/T & M/cover.jpg",
+                    "../img/Photographers/SaraNabil/T & M/ph1.jpg",
+                    "../img/Photographers/SaraNabil/T & M/ph2.jpg",
+                    "../img/Photographers/SaraNabil/T & M/ph3.jpg",
+                    "../img/Photographers/SaraNabil/T & M/ph4.jpg"
+                ],
+                "title":"T & M"
+            },
+            {
+                "cover":"../img/Photographers/SaraNabil/Y & D/cover.jpg",
+                "photos":[
+                    "../img/Photographers/SaraNabil/Y & D/cover.jpg",
+                    "../img/Photographers/SaraNabil/Y & D/ph1.jpg",
+                    "../img/Photographers/SaraNabil/Y & D/ph2.jpg",
+                    "../img/Photographers/SaraNabil/Y & D/ph3.jpg",
+                    "../img/Photographers/SaraNabil/Y & D/ph4.jpg",
+                    "../img/Photographers/SaraNabil/Y & D/ph5.jpg"
+                ],
+                "title":"Y & D"
+            }
+        ]
+    },
+    {
+        "id":"Noor's Gallery",
+        "name":"Noor's Gallery",
+        "image":"../img/Photographers/ProfilePics/Noor.jpg",
+        "instagram":"https://instagram.com/noors_gallery",
+        "facebook":"https://facebook.com/noorsgallery",
+        "email":"noorsgallery@gmail.com",
+        "albums":[
+            {
+                "cover":"../img/Photographers/Noor/A & Y/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Noor/A & Y/ph1.jpg",
+                    "../img/Photographers/Noor/A & Y/ph2.jpg",
+                    "../img/Photographers/Noor/A & Y/ph3.jpg",
+                    "../img/Photographers/Noor/A & Y/ph4.jpg",
+                    "../img/Photographers/Noor/A & Y/ph5.jpg",
+                    "../img/Photographers/Noor/A & Y/ph6.jpg",
+                    "../img/Photographers/Noor/A & Y/cover.jpg"
+                ],
+                "title":"A & Y"
+            },
+            {
+                "cover":"../img/Photographers/Noor/G & N/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Noor/G & N/cover.jpg",
+                    "../img/Photographers/Noor/G & N/ph1.jpg",
+                    "../img/Photographers/Noor/G & N/ph2.jpg",
+                    "../img/Photographers/Noor/G & N/ph3.jpg"
+                ],
+                "title":"G & N"
+            },
+            {
+                "cover":"../img/Photographers/Noor/K & N/cover.jpg",
+                "photos":[
+                    "../img/Photographers/Noor/K & N/cover.jpg",
+                    "../img/Photographers/Noor/K & N/ph1.jpg",
+                    "../img/Photographers/Noor/K & N/ph2.jpg"
+                ],
+                "title":"K & N"
+            }
+        ]
+    }
+    
+]

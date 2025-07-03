@@ -1,0 +1,195 @@
+[
+    {
+        "ID": "1",
+        "name": "zozo atlah",
+        "type": "woman",
+        "location": "Alaharm",
+        "img": "img/atlah/ad5406805f2fe2cbbffc32d8d0825af3.jpg",
+        "link": "/atlah3.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "2",
+        "name": "momo atlah",
+        "type": "woman",
+        "location": "Doky",
+        "img": "img/atlah/ec0a4d08b25fed9f1698f6f39daedd76.jpg",
+        "link": "/atlah1.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "3",
+        "name": "soso atlah",
+        "type": "woman",
+        "location": "Almady",
+        "img": "img/atlah/e3092d4c8599555f1212d8f6d759d36a.jpg",
+        "link": "#",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "4",
+        "name": "coco atlah",
+        "type": "woman",
+        "location": "Alaharm",
+        "img": "img/atlah/9311ba46d5d0fa58c7fc08556de42748.jpg",
+        "link": "/atlah4.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "5",
+        "name": "nono atlah",
+        "type": "woman",
+        "location": "Helwan",
+        "img": "img/atlah/a7ddad9d1ce4ab931b9661d103e46ddc.jpg",
+        "link": "/atlah4.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "6",
+        "name": "vovo atlah",
+        "type": "woman",
+        "location": "Alaharm",
+        "img": "img/atlah/4015292493c51ee044ce2f19aa5dde46.jpg",
+        "link": "/atlah4.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "7",
+        "name": "lolo atlah",
+        "type": "woman",
+        "location": "Alzmalik",
+        "img": "img/atlah/341a1ae9518152ad660718fee946e2f0.jpg",
+        "link": "/atlah2.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "8",
+        "name": "roro atlah",
+        "type": "woman",
+        "location": "Alaharm",
+        "img": "img/atlah/b3b035d27dd7b9c665a6219b6187486a.jpg",
+        "link": "/atlah4.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "9",
+        "name": "toto atlah",
+        "type": "woman",
+        "location": "Almady",
+        "img": "img/atlah/bdd02a3c3774a3b2016767fb4d5152c5.jpg",
+        "link": "/atlah2.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+   
+  
+    {
+        "ID": "10",
+        "name": "zozo atlah",
+        "type": "woman",
+        "location": "Helwan",
+        "img": "img/atlah/9311ba46d5d0fa58c7fc08556de42748.jpg",
+        "link": "/atlah3.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "11",
+        "type": "man",
+        "name": "Marvelo",
+        "location": "Alaharm",
+        "img": "img/atlah/images (2).jpg",
+        "link": "/atlah8.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "12",
+        "type": "man",
+        "name": "Gentle Man",
+        "location": "Alaharm",
+        "img": "img/atlah/934ff42e6806ae6c93047e747d71f67b.jpg",
+        "link": "/atlah7.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "13",
+        "type": "man",
+        "name": "Fashion Store",
+        "location": "Alaharm",
+        "img": "img/atlah/d1ac1b89b5e1fb45db8d44ce05cff834.jpg",
+        "link": "/atlah8.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "14",
+        "type": "man",
+        "name": "ElSwissy",
+        "location": "Alaharm",
+        "img": "img/atlah/images (1).png",
+        "link": "/atlah7.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "15",
+        "type": "man",
+        "name": "TUXEDO",
+        "location": "Alaharm",
+        "img": "img/atlah/ce07fd409ea049e63b682c4bc36e4f90.jpg",
+        "link": "/atlah7.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "16",
+        "type": "man",
+        "name": "Elshekh",
+        "location": "Alaharm",
+        "img": "img/atlah/images.png",
+        "link": "/atlah7.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "17",
+        "type": "man",
+        "name": "Man's Style",
+        "location": "Alaharm",
+        "img": "img/atlah/a4c40050e0e788487111865ca9116496.jpg",
+        "link": "/atlah7.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+        "ID": "18",
+        "type": "man",
+        "name": "Elegance",
+        "location": "Alaharm",
+        "img": "img/atlah/77aa8255def3de0673205ecb7fb14c06.jpg",
+        "link": "/atlah7.html",
+        "inst": "#",
+        "phone": "00000"
+    },
+    {
+      "ID": "19",
+      "type": "man",
+      "name": "Tailor",
+      "location": "Alaharm",
+      "img": "img/atlah/860154584dea9310818865534e5f6843.jpg",
+      "link": "/atlah7.html",
+      "inst": "#",
+      "phone": "00000"
+  }
+  ]
+  

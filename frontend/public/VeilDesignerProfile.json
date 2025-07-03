@@ -1,0 +1,537 @@
+[ 
+    {
+        "id":"Lina El-Sayegh",
+        "name": "Lina El-Sayegh",
+        "image": "../img/veils/ProfilePics/lina.jpg",
+        "instagram": "https://www.instagram.com/linaelsayeghveils",
+        "facebook": "https://www.facebook.com/linaelsayeghveils",
+        "email": "linaelsayeghveils@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph1.jpg",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph2.jpg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph3.jpeg",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph4.jpg",
+                "price": "2650 £"
+            }, 
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph5.jpg",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph6.jpg",
+                "price": "6290 £"
+            }, 
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph7.jpeg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph8.jpeg",
+                "price": "6550 £"
+            }, 
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph9.png",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph10.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Lina El-Sayegh/ph11.jpg",
+                "price": "430 £"
+            }
+        ]
+    },
+    {
+        "id": "Nouran Zaki",
+        "name": "Nouran Zaki",
+        "image": "../img/veils/ProfilePics/NouranZaki.jpg",
+        "instagram": "https://www.instagram.com/nouranzakiveils",
+        "facebook": "https://www.facebook.com/nouranzakiveils",
+        "email": "nouranzakiveils@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Nouran Zaki/ph1.jpeg",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph2.jpeg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph3.jpg",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph4.png",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph5.jpeg",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph6.jpg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph7.jpg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph8.avif",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph9.jpg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph10.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph11.jpg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph12.jpg",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph13.jpg",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph14.jpg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph15.jpeg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph16.jpeg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph17.jpeg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph18.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Nouran Zaki/ph18.jpeg",
+                "price": "430 £"
+            }
+        ]
+    },
+    {
+        "id": "Couture Veils by Sara",
+        "name": "Couture Veils by Sara",
+        "image": "../img/veils/ProfilePics/Sara.jpg",
+        "instagram": "https://www.instagram.com/CoutureVeilsbySara",
+        "facebook": "https://www.facebook.com/CoutureVeilsbySara",
+        "email": "CoutureVeilsbySara@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph1.jpg",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph2.webp",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph3.webp",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph4.webp",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph5.webp",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph6.webp",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph7.png",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph8.png",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph9.jpg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph10.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph11.jpg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph12.jpg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph13.jpg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph14.jpeg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph15.jpg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph16.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph17.webp",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Couture Veils by Sara/ph18.webp",
+                "price": "430 £"
+            }
+        ]
+    },
+    {
+        "id": "Leila El-Masry",
+        "name": "Leila El-Masry",
+        "image": "../img/veils/ProfilePics/Leila.jpg",
+        "instagram": "https://www.instagram.com/leilaelmasryveils",
+        "facebook": "https://www.facebook.com/leilaelmasryveils",
+        "email": "leilaelmasryveils@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Leila El-Masry/ph1.webp",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph2.jpg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph3.jpeg",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph4.jpg",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph5.avif",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph6.jpg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph7.webp",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph8.jpg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph9.jpg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph10.avif",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph11.jpeg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph12.webp",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph13.jpeg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph14.jpg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph15.jpeg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph16.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Leila El-Masry/ph17.jpeg",
+                "price": "430 £"
+            }
+        ]
+    },
+    {
+        "id": "Veil Designs by Mariam",
+        "name": "Veil Designs by Mariam",
+        "image": "../img/veils/ProfilePics/Veil Designs By Mariam.png",
+        "instagram": "https://www.instagram.com/MariamVeilDesigns",
+        "facebook": "https://www.facebook.com/MariamVeilDesigns",
+        "email": "MariamVeilDesigns@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph1.avif",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph2.jpeg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph3.jpg",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph4.jpeg",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph5.jpeg",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph6.jpeg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph7.webp",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph8.jpg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph9.jpeg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph10.jpeg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph11.jpg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph12.jpg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph13.webp",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph14.webp",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph15.webp",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph16.jpg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph17.jpg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Veil Designs by Mariam/ph18.jpeg",
+                "price": "7500 £"
+            }
+        ]
+    },
+    {
+        "id": "Haya Al-Ghanem",
+        "name": "Haya EL-Ghanem",
+        "image": "../img/veils/ProfilePics/Haya.jpg",
+        "instagram": "https://www.instagram.com/hayaalghanemveils",
+        "facebook": "https://www.facebook.com/hayaalghanemveils",
+        "email": "hayaalghanemveils@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph1.jpeg",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph2.jpg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph3.jpg",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph4.jpg",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph5.avif",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph6.jpg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph7.jpeg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph8.jpeg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph9.jpeg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph10.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph11.jpeg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Haya Al-Ghanem/ph12.jpg",
+                "price": "500 £"
+            }
+        ]
+    },
+    {
+        "id": "Bridal Veil Creations by Farah",
+        "name": "Bridal Veil Creations by Farah",
+        "image": "../img/veils/ProfilePics/Sara.jpg",
+        "instagram": "https://www.instagram.com/FarahVeilCreator",
+        "facebook": "https://www.facebook.com/FarahVeilCreator",
+        "email": "FarahVeilCreator@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph1.jpg",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph2.jpg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph3.jpg",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph4.jpeg",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph5.jpg",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph6.jpeg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph7.jpg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph8.jpg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph9.jpg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph10.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph11.jpeg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph12.jpeg",
+                "price": "2500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph13.jpg",
+                "price": "1500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph14.avif",
+                "price": "3585 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph15.jpg",
+                "price": "2650 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph16.jpeg",
+                "price": "3900 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph17.jpeg",
+                "price": "6290 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph18.jpeg",
+                "price": "7500 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph19.jpeg",
+                "price": "6550 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph20.jpg",
+                "price": "1550 £"
+            },
+            {
+                "cover": "../img/veils/Bridal Veil Creations by Farah/ph21.jpg",
+                "price": "500 £"
+            }
+        ]
+    }
+
+]

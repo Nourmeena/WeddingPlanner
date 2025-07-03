@@ -1,0 +1,376 @@
+[
+    {
+        "id" : "Haidy Wafik",
+        "name": "Haidy Wafik",
+        "image": "../img/Bouquet/HaidyWafik.jpg",
+        "instagram": "https://www.instagram.com/HaidyWafik",
+        "facebook": "https://www.facebook.com/haidywafik.bouquetdesigner",
+        "email": "HaidyWafik@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/Haidy/img1.jpg",
+                "price": "250 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img2.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img3.jpg",
+                "price": "385 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img4.jpg",
+                "price": "650 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/Haidy/img5.jpg",
+                "price": "300 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img6.jpg",
+                "price": "290 £"
+            }, {
+                "cover": "../img/Bouquet/Haidy/img7.jpg",
+                "price": "700 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img8.jpg",
+                "price": "650 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img9.jpg",
+                "price": "550 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img10.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img11.jpg",
+                "price": "430 £"
+            }, {
+                "cover": "../img/Bouquet/Haidy/img12.jpg",
+                "price": "350 £"
+            },
+            {
+                "cover": "../img/Bouquet/Haidy/img13.jpg",
+                "price": "550 £"
+            }
+        ]
+    },
+    {
+        "id":"Amany Flowers",
+        "name": "Amany Flowers",
+        "image": "../img/Bouquet/AmanyFlowers.jpg",
+        "instagram": "https://www.instagram.com/AmanyFlowers",
+        "facebook": "https://www.facebook.com/amany.flowers11",
+        "email": "AmanyFlowers@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img1.jpg",
+                "price": "160 £"
+            },
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img2.jpg",
+                "price": "440 £"
+            },
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img3.jpg",
+                "price": "125 £"
+            },
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img4.jpg",
+                "price": "675 £"
+            }, {
+                "cover": "../img/Bouquet/AmanyFlowers/img5.jpg",
+                "price": "860 £"
+            },
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img6.jpg",
+                "price": "215 £"
+            },
+            
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img7.jpg",
+                "price": "670 £"
+            },
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img8.jpg",
+                "price": "350 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img9.jpg",
+                "price": "340 £"
+            },
+            {
+                "cover": "../img/Bouquet/AmanyFlowers/img10.jpg",
+                "price": "260 £"
+            }
+        ]
+    },
+    {
+        "id":"بيت النوستالجيا ",
+        "name": "بيت النوستالجيا ",
+        "image": "../img/Bouquet/Nostalgia.jpg",
+        "instagram": "https://www.instagram.com/Nostalgia",
+        "facebook": "https://www.facebook.com/houseofnostalgiaa",
+        "email": "Nostalgia@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/bet/img1.jpg",
+                "price": "300 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img2.jpg",
+                "price": "250 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img3.jpg",
+                "price": "600 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img4.jpg",
+                "price": "260 £"
+            }, {
+                "cover": "../img/Bouquet/bet/img5.jpg",
+                "price": "430 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img6.jpg",
+                "price": "400 £"
+            }, {
+                "cover": "../img/Bouquet/bet/img7.jpg",
+                "price": "555 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img8.jpg",
+                "price": "880 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/bet/img9.jpg",
+                "price": "350 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img10.jpg",
+                "price": "440 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img11.jpg",
+                "price": "300 £"
+            },
+            {
+                "cover": "../img/Bouquet/bet/img12.jpg",
+                "price": "290 £"
+            }
+        ]
+    },
+    {
+        "id":"Nesma Sherif",
+        "name": "Nesma Sherif",
+        "image": "../img/Bouquet/NesmaSherif.jpg",
+        "instagram": "https://www.instagram.com/NesmaSherif",
+        "facebook": "https://www.facebook.com/profile.php?id=100085370696770",
+        "email": "NesmaSherif@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/NesmaSherif/img1.jpg",
+                "price": "200 £"
+            },
+            {
+                "cover": "../img/Bouquet/NesmaSherif/img2.jpg",
+                "price": "530 £"
+            },
+            {
+                "cover": "../img/Bouquet/NesmaSherif/img3.jpg",
+                "price": "400 £"
+            },
+            {
+                "cover": "../img/Bouquet/NesmaSherif/img4.jpg",
+                "price": "830 £"
+            }, {
+                "cover": "../img/Bouquet/NesmaSherif/img5.jpg",
+                "price": "440 £"
+            },
+            {
+                "cover": "../img/Bouquet/NesmaSherif/img6.jpg",
+                "price": "250 £"
+            }, {
+                "cover": "../img/Bouquet/NesmaSherif/img7.jpg",
+                "price": "540 £"
+            }
+        ]
+    },
+    {
+        "id":"Fay Rose",
+        "name": "Fay Rose",
+        "image": "../img/Bouquet/FayRose.jpg",
+        "instagram": "https://www.instagram.com/FayRose",
+        "facebook": "https://www.facebook.com/profile.php?id=61558140126926",
+        "email": "FayRose@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/FayRose/img1.jpg",
+                "price": "230 £"
+            },
+            {
+                "cover": "../img/Bouquet/FayRose/img2.jpg",
+                "price": "200 £"
+            },
+            {
+                "cover": "../img/Bouquet/FayRose/img3.jpg",
+                "price": "650 £"
+            },
+            {
+                "cover": "../img/Bouquet/FayRose/img4.jpg",
+                "price": "230 £"
+            }, {
+                "cover": "../img/Bouquet/FayRose/img5.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/Bouquet/FayRose/img6.jpg",
+                "price": "350 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/FayRose/img7.jpg",
+                "price": "420 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/FayRose/img8.jpg",
+                "price": "150 £"
+            }
+        ]
+    },
+    {
+        "id":"Yara Mahran",
+        "name": "Yara Mahran",
+        "image": "../img/Bouquet/YaraMahran.jpg",
+        "instagram": "https://www.instagram.com/Yara",
+        "facebook": "https://www.facebook.com/profile.php?id=100085327583279",
+        "email": "YaraM@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/YaraMahran/img1.jpg",
+                "price": "250 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img2.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img3.jpg",
+                "price": "385 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img4.jpg",
+                "price": "650 £"
+            }, {
+                "cover": "../img/Bouquet/YaraMahran/img5.jpg",
+                "price": "300 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img6.jpg",
+                "price": "290 £"
+            }, {
+                "cover": "../img/Bouquet/YaraMahran/img7.jpg",
+                "price": "700 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img8.jpg",
+                "price": "650 £"
+            }, {
+                "cover": "../img/Bouquet/YaraMahran/img9.jpg",
+                "price": "550 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img10.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/Bouquet/YaraMahran/img11.jpg",
+                "price": "430 £"
+            }
+        ]
+    },
+
+    {
+        "id":"Lavender Gallery",
+        "name": "Lavender Gallery",
+        "image": "../img/Bouquet/LavanderGallery.jpg",
+        "instagram": "https://www.instagram.com/Lavender",
+        "facebook": "https://www.facebook.com/lavenderegyofficial",
+        "email": "Lavender@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/Lavender/img1.jpg",
+                "price": "230 £"
+            },
+            {
+                "cover": "../img/Bouquet/Lavender/img2.jpg",
+                "price": "200 £"
+            },
+            {
+                "cover": "../img/Bouquet/Lavender/img3.jpg",
+                "price": "650 £"
+            },
+            {
+                "cover": "../img/Bouquet/Lavender/img4.jpg",
+                "price": "230 £"
+            }, {
+                "cover": "../img/Bouquet/Lavender/img5.jpg",
+                "price": "500 £"
+            },
+            {
+                "cover": "../img/Bouquet/Lavender/img6.jpg",
+                "price": "350 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/Lavender/img7.jpg",
+                "price": "420 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/Lavender/img8.jpg",
+                "price": "150 £"
+            }
+        ]
+    },
+    {
+        "id":"Asia Flowers",
+        "name": "Asia Flowers",
+        "image": "../img/Bouquet/AsiaFlowers.jpg",
+        "instagram": "https://www.instagram.com/AsiaFlowers",
+        "facebook": "https://www.facebook.com/profile.php?id=61551694130496",
+        "email": "AsiaF1@gmail.com",
+        "albums": [
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img1.jpg",
+                "price": "765 £"
+            },
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img2.jpg",
+                "price": "205 £"
+            },
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img3.jpg",
+                "price": "475 £"
+            },
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img4.jpg",
+                "price": "920 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img5.jpg",
+                "price": "635 £"
+            },
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img6.jpg",
+                "price": "245 £"
+            }, 
+            {
+                "cover": "../img/Bouquet/Asia Flowers/img7.jpg",
+                "price": "310 £"
+            }
+        ]
+    }
+]
